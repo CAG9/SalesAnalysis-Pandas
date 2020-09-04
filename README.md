@@ -7,7 +7,7 @@
 GNU General Public License v3.0
 
 ## Introduction:
-Some data analysis focused in sales
+Some data analysis focused in sales using pnadas and matplotlib
 ## Tools:
 - Python 
 - Pandas
