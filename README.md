@@ -7,7 +7,7 @@
 GNU General Public License v3.0
 
 ## Introduction:
-
+Some data analysis focused in sales
 ## Tools:
 - Python 
 - Pandas
